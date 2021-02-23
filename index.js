@@ -6,6 +6,8 @@ const jokes = document.getElementById("jokes");
 
 button.addEventListener("click", importJoke)
 
+importJoke ()
+
  async function importJoke () {
 
 const config = {
